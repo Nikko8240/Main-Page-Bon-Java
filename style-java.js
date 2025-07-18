@@ -193,19 +193,11 @@ style.textContent = `
         border-radius: 10px;
     }
 
-footer {
-    background-color: #d71e28;
-    text-align: center;
-    color: #fff;
-    font-size: 20px;
-    font-weight: 900;
-    padding: 50px;
-}
-footer fo{
+footer .footer-links {
     height: 50px;
-    
 }
-footer fo a{
+
+footer .footer-links a {
     text-decoration: none;
     color: white;
     padding: 15px;
