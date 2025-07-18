@@ -192,5 +192,24 @@ style.textContent = `
         width: 300px;
         border-radius: 10px;
     }
+
+    footer {
+    background-color: #d71e28;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 900;
+    padding: 50px;
+    }
+    
+    footer fo{
+    height: 50px;
+    }
+    
+    footer fo a{
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    }
 `;
 document.head.appendChild(style);
