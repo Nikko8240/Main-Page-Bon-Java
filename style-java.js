@@ -192,7 +192,14 @@ style.textContent = `
         width: 300px;
         border-radius: 10px;
     }
-
+footer {
+    background-color: #d71e28;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 900;
+    padding: 50px;
+}
 footer .footer-links {
     height: 50px;
 }
